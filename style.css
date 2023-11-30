@@ -1,7 +1,7 @@
 
 .header{
     font-family: 'Roboto Mono', monospace;
-    background: url('/img/ebuliçao.png') center/cover no-repeat;
+    background: url('img/marte.png') center/cover no-repeat;
     position: relative;
     height: 50vh;
     color: #fff;
@@ -29,8 +29,8 @@
 font-family: 'Roboto Mono', monospace;
 font-weight: 300;
 font-size: 14px;
-color: black;
-background-color: #fff;
+color: rgba(0, 0, 0, 0.719);
+background-color: #443683;
 padding: 10px 30px;
 border: solid #828282 2px;
 box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
@@ -49,9 +49,9 @@ margin-top: 3em;
 transition : 1000ms;
 padding: 10px 50px;
 transform : translateY(-0px);
-background-color: #fff;
+background-color: #fdb7b7;
 color: #000000;
-border: solid 2px #b3c8de;
+border: solid 2px #9abbdf;
 }
 
 .icone_bloco{
